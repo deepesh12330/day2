@@ -18,6 +18,6 @@ this is new comment
    git status
    git push origin master
 
-
+i am write gitandgithub and i want to change local
 
 
