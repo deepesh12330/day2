@@ -3,3 +3,17 @@ git status
  git commit -m "added new"
  git push origin master
  git pull origin master
+
+ git remote add origin https://github.com/deepesh12330/day2.git
+   git remote remove origin
+   git remote add origin https://github.com/deepesh12330/day2.git
+   git status
+   
+   git remote -v
+   git push origin master
+   git push origin master
+   git push origin master
+   clear
+   git remote -v
+  git remote set-url origin https://deepesh12330/day2.git
+git push origin master
